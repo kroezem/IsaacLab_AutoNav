@@ -1,5 +1,7 @@
 # AutoNav Training Environment for Isaac Lab
 
+VIEW PROJECT DEMO AT [makro.ca/autonav](https://makro.ca/autonav)
+
 Self-contained training task for indoor region-to-region navigation in NVIDIA Isaac Lab.  
 This repo provides the RL environment and a reproducible trainer, not the hardware runtime.
 
