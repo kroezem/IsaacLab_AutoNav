@@ -16,7 +16,7 @@ from . import agents
 ##
 
 gym.register(
-    id="Isaac-AutoNav-Direct-v11",
+    id="Isaac-AutoNav-Direct-v8",
     entry_point=f"{__name__}.autonav_env:AutoNavEnv",
     disable_env_checker=True,
     kwargs={
