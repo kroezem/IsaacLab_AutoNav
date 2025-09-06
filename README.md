@@ -12,8 +12,8 @@ This repo provides the RL environment and a reproducible trainer, not the hardwa
 
 ## Requirements
 - Isaac Sim and Isaac Lab installed and working
-- Python deps typically bundled with Isaac Lab; additionally:
-  - torch, gymnasium, networkx, pxr bindings
+- Isaac Lab Python deps
+- torch, gymnasium, networkx, pxr bindings
 
 
 ## Quick start
