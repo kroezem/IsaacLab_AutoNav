@@ -15,7 +15,7 @@ WHEEL_COLLISION_PRIM_PATHS = [
 
 ROBOT_CFG = ArticulationCfg(
     spawn=sim_utils.UsdFileCfg(
-        usd_path="source/isaaclab_tasks/isaaclab_tasks/direct/autonav_v5/robots/autonav.usd",
+        usd_path="source/isaaclab_tasks/isaaclab_tasks/direct/autonav_v8/robots/autonav.usd",
         rigid_props=sim_utils.RigidBodyPropertiesCfg(
             rigid_body_enabled=True,
             max_linear_velocity=1000.0,
